@@ -1,0 +1,26 @@
+h1 {
+    color: rgb(241, 224, 32)
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 3px solid #c906f5;
+    padding: 8px;
+    text-align: left;
+  }
+  td {
+    color:rgb(241, 224, 32)
+  }
+  
+  th {
+    background-color: #199030;
+  }
+  
+  .category {
+    font-weight: bold;
+    background-color: #180b65;
+  }
+  
